@@ -1,0 +1,27 @@
+{
+  "skipPageTitle": "Choose Your Skip Size",
+  "skipPageSubtitle": "Select the skip size that best suits your needs",
+  "labels": {
+    "yardSkip": "{{size}} Yard Skip",
+    "hirePeriod": "{{days}} days hire",
+    "totalPrice": "Total price",
+    "tooltip": "A skip has already been selected. Click a different one to change selection."
+  },
+  "filters": {
+    "heavyWaste": "Heavy waste allowed",
+    "onRoad": "Allowed on road"
+  },
+  "buttons": {
+    "select": "Select",
+    "selected": "Selected",
+    "deselect": "Deselect this skip",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  "messages": {
+    "loading": "Loading...",
+    "error": "Error:",
+    "errorFetch": "Error fetching data"
+  }
+}
+  
